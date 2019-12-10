@@ -15,3 +15,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX0kDW8fIW_KFGga5H
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbONq9b4GsachXUG-Bwvtkw)/dm/3/x6qud17/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/tvTVRTMHDSPORTlogo.jpg" group-title="",RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="",TV 9
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeEH7E8jy-mCeHIa48AKFaY)/dm/3/x6qqja6/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="",Drama Sangat
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nYDuDmobhuKJBVejJ-sKX4)/dm/3/x6zvnex/live.m3u8
