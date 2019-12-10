@@ -8,7 +8,7 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="",RTM 2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="",TV3 
-https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaKSW-o5y6XLuGGC6UFifIjW_lLfBvun2H5v-0HAA7y1UzPhNTb3hnXcWSE12yIS8vw&redirect=0
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWI958Ibcsno8D377vzadaY)/dm/3/x6qp375/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="",NTV 7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX0kDW8fIW_KFGga5Hun0FE)/dm/3/x6qp6ou/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="",8TV
